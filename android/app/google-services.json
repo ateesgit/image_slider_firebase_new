@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606726007755",
+    "project_id": "test-9186c",
+    "storage_bucket": "test-9186c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606726007755:android:88aa10a2f84dd61b3d644e",
+        "android_client_info": {
+          "package_name": "com.example.image_slider_firebase_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4w9GIL9l4nEqtVko18y_3aIsiVO20XbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
